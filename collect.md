@@ -1,5 +1,3 @@
-- https://www.google.com/
-- https://www.amazon.com/
 - https://www.amazon.com/
 - https://www.ebay.com/
 - https://experienceleaguecommunities.adobe.com/t5/adobe-analytics-questions/assistance-with-adobe-analytics-api-integration/m-p/594359#M43549
@@ -152,7 +150,7 @@
 - http://www.pearltrees.com/johnstonesbds#item516781701
 - https://www.google.ch/url?q=https%3A%2F%2Fpepita.hu%2F
 - https://www.google.cl/url?q=https%3A%2F%2Fpepita.hu%2F
-- https://eddiethelord10.itch.io/
+- https://jordanlol55.itch.io/
 - https://www.pinterest.at/johnstonesbds/
 - https://www.pinterest.co.kr/johnstonesbds/
 - https://www.artstation.com/johnstonesbds/profile
@@ -167,7 +165,11 @@
 - https://www.google.com.pe/url?q=https%3A%2F%2Fpepita.hu%2F
 - https://www.google.dk/url?q=https%3A%2F%2Fpepita.hu%2F
 - https://www.sitejabber.com/reviews/pepita.hu
+- https://johnstonesbds.usite.pro/blog/ultimate_destination/2023-06-19-11
 - https://www.google.com.sa/url?q=https%3A%2F%2Fpepita.hu%2F
+- https://www.podchaser.com/podcasts/john-stoness-ambient-podcast-5323236/episodes/a-relaxing-beat-podcast-short-173896023
+- https://player.fm/series/john-stoness-ambient-podcast/a-relaxing-beat-podcast-short-4
+- https://podcastaddict.com/episode/https%3A%2F%2Fwww.buzzsprout.com%2F2186978%2F12918170-a-relaxing-beat-podcast-short-4.mp3&podcastId=4430964
 - https://www.google.com.hk/url?q=https%3A%2F%2Fpepita.hu%2F
 - https://www.pinterest.se/johnstonesbds/
 - https://sketchfab.com/johnstonesbds
@@ -331,7 +333,7 @@
 - https://www.pinterest.ph/johnstonesbdsthanothers/
 - https://rutube.ru/channel/31469798/about/
 - https://www.scamadviser.com/check-website/pepita.com
-  -https://search.aol.com/aol/search;_ylt=AwrFGewMwYpkPlMWJLRpCWVH;_ylc=X1MDMTE5NzgwMzg4MQRfcgMyBGZyA25hBGdwcmlkA2E4dGpLVmg3UWZDY1A2Qlh6SF9IZkEEbl9yc2x0AzAEbl9zdWdnAzEEb3JpZ2luA3NlYXJjaC5hb2wuY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAMxMARxdWVyeQNwZXBpdGEuY29tBHRfc3RtcAMxNjg2ODE1MDAz?q=pepita.com&s_it=sb-top&v_t=na
+- https://search.aol.com/aol/search;_ylt=AwrFGewMwYpkPlMWJLRpCWVH;_ylc=X1MDMTE5NzgwMzg4MQRfcgMyBGZyA25hBGdwcmlkA2E4dGpLVmg3UWZDY1A2Qlh6SF9IZkEEbl9yc2x0AzAEbl9zdWdnAzEEb3JpZ2luA3NlYXJjaC5hb2wuY29tBHBvcwMwBHBxc3RyAwRwcXN0cmwDMARxc3RybAMxMARxdWVyeQNwZXBpdGEuY29tBHRfc3RtcAMxNjg2ODE1MDAz?q=pepita.com&s_it=sb-top&v_t=na
 - https://vc.ru/u/1985134-stones-john/727914-somewhere-les
 - https://bit.ly/40O1lwr
 - https://www.google.com.pe/url?q=https%3A%2F%2Fpepita.com%2F
