@@ -461,3 +461,4 @@
 - https://www.similartech.com/websites/pepita.com
 - https://forum.benchmark.rs/members/johnhillbds.239728/#about
 - https://www.hipertrofia.org/forum/profile/309657-johnstonesothers/
+- https://www.crunchbase.com/organization/pepita-com
